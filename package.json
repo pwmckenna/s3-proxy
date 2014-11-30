@@ -1,0 +1,23 @@
+{
+  "name": "s3-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pwmckenna/s3-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwmckenna/s3-proxy/issues"
+  },
+  "homepage": "https://github.com/pwmckenna/s3-proxy",
+  "dependencies": {
+    "express": "^4.10.4",
+    "request": "^2.49.0"
+  }
+}
