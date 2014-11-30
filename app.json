@@ -1,5 +1,0 @@
-{
-  "name": "s3-proxy",
-  "description": "A app that proxies to an s3 bucket",
-  "repository": "https://github.com/pwmckenna/s3-proxy"
-}
